@@ -27,7 +27,7 @@ def error1():
 
 while True:
     print("SISTEMA DE OTIMIZAÇÃO DE COMPUTADORES (OP)")
-    print("VERSÃO 1.2 [BETA] - LISTA DE COMANDOS")
+    print("VERSÃO 1.3 [BETA] - LISTA DE COMANDOS")
     print("")
     print("1. Otimizações Basicas")
     print("2. Otimização Internet")
